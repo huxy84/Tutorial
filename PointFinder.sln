@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointFinder", "PointFinder\PointFinder.csproj", "{E57B61D6-F58B-44C2-9E19-9309EB5A0344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointFinder.Tests", "PointFinder.Tests\PointFinder.Tests.csproj", "{5B2364A3-717F-43C1-9CB1-8E833FDA7233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57B61D6-F58B-44C2-9E19-9309EB5A0344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57B61D6-F58B-44C2-9E19-9309EB5A0344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E57B61D6-F58B-44C2-9E19-9309EB5A0344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E57B61D6-F58B-44C2-9E19-9309EB5A0344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2364A3-717F-43C1-9CB1-8E833FDA7233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2364A3-717F-43C1-9CB1-8E833FDA7233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2364A3-717F-43C1-9CB1-8E833FDA7233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2364A3-717F-43C1-9CB1-8E833FDA7233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

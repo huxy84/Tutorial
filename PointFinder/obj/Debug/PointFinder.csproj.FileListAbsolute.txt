@@ -1,0 +1,15 @@
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\bin\Debug\PointFinder.exe.config
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\bin\Debug\PointFinder.exe
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\bin\Debug\PointFinder.pdb
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.csprojResolveAssemblyReference.cache
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\MainWindow.g.cs
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\App.g.cs
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder_MarkupCompile.cache
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder_MarkupCompile.lref
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\MainWindow.baml
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.g.resources
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.Properties.Resources.resources
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.csproj.GenerateResource.Cache
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.exe
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\PointFinder.pdb
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder\obj\Debug\GeneratedInternalTypeHelper.g.cs

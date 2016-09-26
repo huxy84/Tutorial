@@ -1,0 +1,8 @@
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\bin\Debug\PointFinder.Tests.dll
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\bin\Debug\PointFinder.Tests.pdb
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\bin\Debug\PointFinder.exe
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\bin\Debug\PointFinder.pdb
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\obj\Debug\PointFinder.Tests.csprojResolveAssemblyReference.cache
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\obj\Debug\PointFinder.Tests.dll
+D:\Development\Other\Hexagon Mining\Assignment\PointFinder\PointFinder.Tests\obj\Debug\PointFinder.Tests.pdb
